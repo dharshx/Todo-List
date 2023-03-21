@@ -1,20 +1,20 @@
-#Todo-List
+# Todo-List
 
 This is a simple web application built with React.js and CSS to help users manage their tasks and to-do lists.
 
-#How to Navigate this Project
+# How to Navigate this Project
 
 The project structure is divided into the following components:
 
-App.js: This is the main component that renders the Todo List.
-TodoList.js: This component manages the list of tasks and their status.
-TodoForm.js: This component allows users to add new tasks to the list.
-Todo.js: This component represents an individual task and its properties.
-Why I Built the Project this Way
+1. App.js: This is the main component that renders the Todo List.
+2. TodoList.js: This component manages the list of tasks and their status.
+3. TodoForm.js: This component allows users to add new tasks to the list.
+4. Todo.js: This component represents an individual task and its properties.
+5. Why I Built the Project this Way
 
 The main goal of this project is to demonstrate my proficiency in building React.js web applications. I chose to keep the project simple and straightforward to showcase my ability to create modular and reusable components.
 
-#If I Had More Time, I Would Change This
+# If I Had More Time, I Would Change This
 
 If I had more time, I would implement the following features to improve the application:
 
@@ -57,6 +57,6 @@ The build is minified and the filenames include the hashes.
 
 Your app is ready to be deployed!
 
-#Conclusion
+# Conclusion
 
 Thank you for taking the time to review my Todo-List project. If you have any feedback or questions, please feel free to contact me.
