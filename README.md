@@ -14,15 +14,6 @@ The project structure is divided into the following components:
 
 The main goal of this project is to demonstrate my proficiency in building React.js web applications. I chose to keep the project simple and straightforward to showcase my ability to create modular and reusable components.
 
-# If I Had More Time, I Would Change This
-
-If I had more time, I would implement the following features to improve the application:
-
-1. User authentication and authorization
-2. Ability to edit or delete existing tasks
-3. Sorting tasks by date or priority
-4. Integration with a database for persistent data storage
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
