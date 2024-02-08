@@ -10,7 +10,8 @@ The project structure is divided into the following components:
 2. TodoList.js: This component manages the list of tasks and their status.
 3. TodoForm.js: This component allows users to add new tasks to the list.
 4. Todo.js: This component represents an individual task and its properties.
-5. Why I Built the Project this Way
+
+# Why I Built the Project this Way
 
 The main goal of this project is to demonstrate my proficiency in building React.js web applications. I chose to keep the project simple and straightforward to showcase my ability to create modular and reusable components.
 
